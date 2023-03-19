@@ -1,0 +1,40 @@
+h2{
+    font-size: 50px;
+    color:salmon
+}
+p{
+    font-size: 20px;
+    color: violet;
+}
+ul{
+    list-style: none;
+}
+li{
+    background-color: wheat;
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: bold;
+    color: brown;
+}
+body{
+    width: 100%;
+}
+#header{
+    background-color: wheat; 
+    width: 200px;
+    height: 200px;
+}
+#container{
+    width: 1080px;
+    margin: 0 auto;
+    /* 외부 여백 위 아래는 o으로 주고 좌우는 오토로 주겠다는 뜻*/
+    height: 800px;
+}
+#footer{
+    background-color: cornsilk;
+    width: 100%;
+    height: 200px;
+
+    /* #은 ID의 속성에 스타일을 주겠다는 의미 
+    다음시간에 배울 예정! */
+}
