@@ -1,8 +1,8 @@
 css 예제를 올리겠습니다.
 
 css 1 example
-https://cording0841.tistory.com/60
-css에 대하여 - HTML.CSS Day5
+ https://cording0841.tistory.com/60
+ css에 대하여 - HTML.CSS Day5
 
     1. css
 
@@ -12,3 +12,18 @@ css에 대하여 - HTML.CSS Day5
 
     4. 인라인
 ----------------------------------------------------------    
+
+css 2 example
+ https://cording0841.tistory.com/69
+ css의 선택자 1 - HTML.CSS Day6
+
+    1. 전체 선택자
+    
+    2. 태그 선택자
+
+    3. #id 선택자
+
+    4. .class 선택자
+
+    5. 그룹 선택자
+----------------------------------------------------------  
